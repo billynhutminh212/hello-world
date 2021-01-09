@@ -7,6 +7,6 @@ class ViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
-    interstitial = GADInterstitial(adUnitID: "ca-app-pub-3940256099942544/4411468910")
+    interstitial = GADInterstitial(adUnitID: "ca-app-pub-8894503345925579~3555022468")
   }
 }
