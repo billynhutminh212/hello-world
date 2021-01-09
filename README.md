@@ -1,12 +1,6 @@
-import GoogleMobileAds
-import UIKit
+#Hello-world
 
-class ViewController: UIViewController {
+Hi Humans !
 
-  var interstitial: GADInterstitial!
-
-  override func viewDidLoad() {
-    super.viewDidLoad()
-    interstitial = GADInterstitial(adUnitID: "ca-app-pub-8894503345925579~3555022468")
-  }
-}
+Hubot here, I i like node.js and Coffeescript that’s what’s I’m made of!).
+i’d had tacos on the moon and find them far supperior to the Earth tacos.
